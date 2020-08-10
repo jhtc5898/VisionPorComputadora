@@ -1,0 +1,176 @@
+﻿  HuMoments.cpp
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(219,80): warning C4244: 'argumento': conversión de '_Ty' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(219,66): warning C4244: 'argumento': conversión de '_Ty' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(223,83): warning C4244: 'argumento': conversión de '_Ty' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(223,68): warning C4244: 'argumento': conversión de '_Ty' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(227,86): warning C4244: 'argumento': conversión de '_Ty' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(227,71): warning C4244: 'argumento': conversión de '_Ty' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(391,76): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(391,120): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(392,76): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(392,120): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(393,76): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(393,120): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(394,76): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(394,120): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(413,79): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(413,125): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(414,79): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(414,125): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(415,79): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(415,125): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(416,79): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(416,125): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(435,79): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(435,125): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(436,79): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(436,125): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(437,79): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(437,125): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(438,79): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\HuMoments.cpp(438,125): warning C4244: 'argumento': conversión de 'int' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+  ProyectoIntegrador.vcxproj -> D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\x64\Debug\ProyectoIntegrador.exe

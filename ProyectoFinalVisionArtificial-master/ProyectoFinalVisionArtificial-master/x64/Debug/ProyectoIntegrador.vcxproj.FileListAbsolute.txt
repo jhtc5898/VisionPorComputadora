@@ -1,0 +1,4 @@
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\x64\Debug\ProyectoIntegrador.exe
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\x64\Debug\ProyectoIntegrador.pdb
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\x64\Debug\ProyectoIntegrador.exe
+D:\Users\John Henry\Documents\Vision Computadora\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\ProyectoFinalVisionArtificial-master\x64\Debug\ProyectoIntegrador.pdb
